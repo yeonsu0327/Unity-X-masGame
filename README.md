@@ -1,4 +1,4 @@
-<img width="1024" height="578" alt="start" src="https://github.com/user-attachments/assets/e7d46b17-a487-4da3-8a1d-8c7701b3a68d" />🎄 X-masGame 🎮
+#🎄 X-masGame 🎮
 
 Unity로 제작한 간단한 크리스마스 테마 점프 액션 게임입니다!
 
@@ -17,8 +17,7 @@ Unity로 제작한 간단한 크리스마스 테마 점프 액션 게임입니�
 
 | 시작 화면 | 플레이 화면 | 스테이지 전환 | 게임 오버 | 엔딩 |
 |-----------|--------------|----------------|-----------|-------|
-| ![Start](![Uploading start.png…]()
-)![Uploading start.png…]()
+|![Uploading start.png…]()
  | ![Play](./screenshots/play.png) | ![Next Stage](./screenshots/nextstage.png) | ![Game Over](./screenshots/gameover.png) | ![Finish](./screenshots/finish.png) |
 ---
 
