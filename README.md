@@ -1,4 +1,4 @@
-#🎄 X-masGame 🎮
+## 🎄 X-masGame 🎮
 
 Unity로 제작한 간단한 크리스마스 테마 점프 액션 게임
 
