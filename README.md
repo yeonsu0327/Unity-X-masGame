@@ -1,4 +1,4 @@
-<img width="1024" height="578" alt="스크린샷 2025-07-16 오후 7 33 15" src="https://github.com/user-attachments/assets/ef26ee19-30d0-49ed-8bf5-c2633ec476b6" /># 🎄 X-masGame 🎮
+<img width="1024" height="578" alt="start" src="https://github.com/user-attachments/assets/e7d46b17-a487-4da3-8a1d-8c7701b3a68d" />🎄 X-masGame 🎮
 
 Unity로 제작한 간단한 크리스마스 테마 점프 액션 게임입니다!
 
@@ -17,11 +17,9 @@ Unity로 제작한 간단한 크리스마스 테마 점프 액션 게임입니�
 
 | 시작 화면 | 플레이 화면 | 스테이지 전환 | 게임 오버 | 엔딩 |
 |-----------|--------------|----------------|-----------|-------|
-| <img width="1024" height="578" alt="start" src="https://github.com/user-attachments/assets/e1eedda5-448c-40dc-93d0-d8ab071796c7" />
-!| ![Play](./screenshots/play.png) | ![Next Stage](./screenshots/nextstage.png) | ![Game Over](./screenshots/gameover.png) | ![Finish](./screenshots/finish.png) |
-
-> 📌 `screenshots/` 폴더에 위 이미지들을 넣고 경로 맞춰주세요.
-
+| ![Start](![Uploading start.png…]()
+)![Uploading start.png…]()
+ | ![Play](./screenshots/play.png) | ![Next Stage](./screenshots/nextstage.png) | ![Game Over](./screenshots/gameover.png) | ![Finish](./screenshots/finish.png) |
 ---
 
 ## ▶️ 실행 방법
